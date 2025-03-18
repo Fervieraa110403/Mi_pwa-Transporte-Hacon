@@ -1,0 +1,12 @@
+{
+    "port": 8080,
+    "server": {
+      "baseDir": "./dist/mi_pwa/browser",
+      "routes": {
+        "/auth": "./dist/mi_pwa/browser/index.html",
+        "/dashboard": "./dist/mi_pwa/browser/index.html",
+        "/admin": "./dist/mi_pwa/browser/index.html"
+      }
+    }
+  }
+  

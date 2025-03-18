@@ -1,0 +1,913 @@
+{
+  "usuarios_empanadas": [
+    {
+      "id": "1",
+      "first_name": "Benson",
+      "last_name": "Andreu",
+      "email": "bandreu0@wp.com",
+      "pwd": "fT1?'f0sK8c4BK",
+      "id_ruta": 16,
+      "rol": "Coordinador"
+    },
+    {
+      "id": "2",
+      "first_name": "Zulema",
+      "last_name": "Hanhard",
+      "email": "zhanhard1@gmpg.org",
+      "pwd": "xL1,dwgFGu",
+      "id_ruta": 13,
+      "rol": "alumno"
+    },
+    {
+      "id": "3",
+      "first_name": "Robers",
+      "last_name": "Wager",
+      "email": "rwager2@yellowpages.com",
+      "pwd": "iA7(wwzT?F",
+      "id_ruta": 4,
+      "rol": "alumno"
+    },
+    {
+      "id": "4",
+      "first_name": "Patrica",
+      "last_name": "Geraldo",
+      "email": "pgeraldo3@spiegel.de",
+      "pwd": "uN1}J,jNm~K3Z",
+      "id_ruta": 14,
+      "rol": "alumno"
+    },
+    {
+      "id": "5",
+      "first_name": "Milty",
+      "last_name": "Menichelli",
+      "email": "mmenichelli4@mysql.com",
+      "pwd": "fH2#B*c.2",
+      "id_ruta": 11,
+      "rol": "alumno"
+    },
+    {
+      "id": "6",
+      "first_name": "Stephannie",
+      "last_name": "MacCoveney",
+      "email": "smaccoveney5@tumblr.com",
+      "pwd": "hZ8<gsF3b",
+      "id_ruta": 8,
+      "rol": "alumno"
+    },
+    {
+      "id": "7",
+      "first_name": "Normie",
+      "last_name": "Yendle",
+      "email": "nyendle6@naver.com",
+      "pwd": "lF8>yPuh,BOYGyi",
+      "id_ruta": 6,
+      "rol": "alumno"
+    },
+    {
+      "id": "8",
+      "first_name": "Dionisio",
+      "last_name": "Goldney",
+      "email": "dgoldney7@amazon.de",
+      "pwd": "jZ2!.9mbkp",
+      "id_ruta": 7,
+      "rol": "alumno"
+    },
+    {
+      "id": "9",
+      "first_name": "Tawnya",
+      "last_name": "Astell",
+      "email": "tastell8@sun.com",
+      "pwd": "dE8)rDTA%Ve1s.j|",
+      "id_ruta": 14,
+      "rol": "alumno"
+    },
+    {
+      "id": "10",
+      "first_name": "Debra",
+      "last_name": "Murty",
+      "email": "dmurty9@usgs.gov",
+      "pwd": "uC1>Y!72q",
+      "id_ruta": 10,
+      "rol": "alumno"
+    },
+    {
+      "id": "11",
+      "first_name": "Kipp",
+      "last_name": "Mougeot",
+      "email": "kmougeota@bizjournals.com",
+      "pwd": "gG0$u_CkR/oh?_#",
+      "id_ruta": 11,
+      "rol": "alumno"
+    },
+    {
+      "id": "12",
+      "first_name": "Gregg",
+      "last_name": "Purdom",
+      "email": "gpurdomb@gov.uk",
+      "pwd": "sH9#`j@(",
+      "id_ruta": 12,
+      "rol": "alumno"
+    },
+    {
+      "id": "13",
+      "first_name": "Reese",
+      "last_name": "Pigford",
+      "email": "rpigfordc@amazon.de",
+      "pwd": "iX0|,JHqSq?|s",
+      "id_ruta": 7,
+      "rol": "alumno"
+    },
+    {
+      "id": "14",
+      "first_name": "Ardys",
+      "last_name": "Hazeldean",
+      "email": "ahazeldeand@hubpages.com",
+      "pwd": "fJ8}L4L)d>",
+      "id_ruta": 12,
+      "rol": "alumno"
+    },
+    {
+      "id": "15",
+      "first_name": "Forbes",
+      "last_name": "Isherwood",
+      "email": "fisherwoode@whitehouse.gov",
+      "pwd": "jW4.')nQ~e1",
+      "id_ruta": 5,
+      "rol": "alumno"
+    },
+    {
+      "id": "16",
+      "first_name": "Janey",
+      "last_name": "Rawstorn",
+      "email": "jrawstornf@nasa.gov",
+      "pwd": "mP6!e&kp~<IAcML",
+      "id_ruta": 15,
+      "rol": "alumno"
+    },
+    {
+      "id": "17",
+      "first_name": "Petrina",
+      "last_name": "Standingford",
+      "email": "pstandingfordg@soup.io",
+      "pwd": "tO3(.2!'f6CJa>",
+      "id_ruta": 13,
+      "rol": "alumno"
+    },
+    {
+      "id": "18",
+      "first_name": "Parke",
+      "last_name": "Corneck",
+      "email": "pcorneckh@reuters.com",
+      "pwd": "nU6}kS>)@",
+      "id_ruta": 7,
+      "rol": "alumno"
+    },
+    {
+      "id": "19",
+      "first_name": "Ashbey",
+      "last_name": "Ofer",
+      "email": "aoferi@google.nl",
+      "pwd": "uS3%xb\\Oz!",
+      "id_ruta": 2,
+      "rol": "alumno"
+    },
+    {
+      "id": "20",
+      "first_name": "Mary",
+      "last_name": "Hindenberger",
+      "email": "mhindenbergerj@lycos.com",
+      "pwd": "kM5!S$j!ya6",
+      "id_ruta": 7,
+      "rol": "alumno"
+    },
+    {
+      "id": "21",
+      "first_name": "Delia",
+      "last_name": "Rylands",
+      "email": "drylandsk@soundcloud.com",
+      "pwd": "zE8&cI?`Pb",
+      "id_ruta": 3,
+      "rol": "alumno"
+    },
+    {
+      "id": "22",
+      "first_name": "Florenza",
+      "last_name": "Beentjes",
+      "email": "fbeentjesl@networkadvertising.org",
+      "pwd": "jQ2\"k\\~ka$cP",
+      "id_ruta": 4,
+      "rol": "alumno"
+    },
+    {
+      "id": "23",
+      "first_name": "Etienne",
+      "last_name": "Brandes",
+      "email": "ebrandesm@google.ca",
+      "pwd": "tB9~OO1>z",
+      "id_ruta": 2,
+      "rol": "alumno"
+    },
+    {
+      "id": "24",
+      "first_name": "Hedy",
+      "last_name": "Montier",
+      "email": "hmontiern@typepad.com",
+      "pwd": "fA8(O4vQ%`r$4",
+      "id_ruta": 11,
+      "rol": "alumno"
+    },
+    {
+      "id": "25",
+      "first_name": "Emalia",
+      "last_name": "Isacoff",
+      "email": "eisacoffo@php.net",
+      "pwd": "kP2+FH6uf",
+      "id_ruta": 13,
+      "rol": "alumno"
+    },
+    {
+      "id": "26",
+      "first_name": "Jacquenetta",
+      "last_name": "Seyffert",
+      "email": "jseyffertp@fema.gov",
+      "pwd": "bG5@F/gZCEts=+n",
+      "id_ruta": 11,
+      "rol": "alumno"
+    },
+    {
+      "id": "27",
+      "first_name": "Hillyer",
+      "last_name": "Sagg",
+      "email": "hsaggq@facebook.com",
+      "pwd": "rI0=BDs&zZsE_",
+      "id_ruta": 2,
+      "rol": "alumno"
+    },
+    {
+      "id": "28",
+      "first_name": "Ludwig",
+      "last_name": "Brazil",
+      "email": "lbrazilr@simplemachines.org",
+      "pwd": "bG3+Z~s|aXE&'",
+      "id_ruta": 1,
+      "rol": "alumno"
+    },
+    {
+      "id": "29",
+      "first_name": "Daffy",
+      "last_name": "Ramos",
+      "email": "dramoss@eepurl.com",
+      "pwd": "wG5|K=*z5",
+      "id_ruta": 10,
+      "rol": "alumno"
+    },
+    {
+      "id": "30",
+      "first_name": "April",
+      "last_name": "Lafflina",
+      "email": "alafflinat@ca.gov",
+      "pwd": "qZ3@tF7h",
+      "id_ruta": 12,
+      "rol": "alumno"
+    },
+    {
+      "id": "31",
+      "first_name": "Devlin",
+      "last_name": "Milne",
+      "email": "dmilneu@pen.io",
+      "pwd": "yE1=fgt5C24\\",
+      "id_ruta": 7,
+      "rol": "alumno"
+    },
+    {
+      "id": "32",
+      "first_name": "Georgine",
+      "last_name": "Ralphs",
+      "email": "gralphsv@tiny.cc",
+      "pwd": "cW2__pO*j&rz",
+      "id_ruta": 7,
+      "rol": "alumno"
+    },
+    {
+      "id": "33",
+      "first_name": "Roxanne",
+      "last_name": "O'Cooney",
+      "email": "rocooneyw@mysql.com",
+      "pwd": "yM8,LZ#7InS~",
+      "id_ruta": 11,
+      "rol": "alumno"
+    },
+    {
+      "id": "34",
+      "first_name": "Krystle",
+      "last_name": "Daniaud",
+      "email": "kdaniaudx@privacy.gov.au",
+      "pwd": "yQ3+ro~tLCO*C8K",
+      "id_ruta": 12,
+      "rol": "alumno"
+    },
+    {
+      "id": "35",
+      "first_name": "Ansell",
+      "last_name": "Gimbrett",
+      "email": "agimbretty@skyrock.com",
+      "pwd": "jT3.<TZaZuQ.76Db",
+      "id_ruta": 1,
+      "rol": "alumno"
+    },
+    {
+      "id": "36",
+      "first_name": "Herold",
+      "last_name": "Booi",
+      "email": "hbooiz@prweb.com",
+      "pwd": "tB8'%CC95BZ",
+      "id_ruta": 6,
+      "rol": "alumno"
+    },
+    {
+      "id": "37",
+      "first_name": "Brendin",
+      "last_name": "Synan",
+      "email": "bsynan10@merriam-webster.com",
+      "pwd": "jR7<?b>Ve6/Tac",
+      "id_ruta": 4,
+      "rol": "alumno"
+    },
+    {
+      "id": "38",
+      "first_name": "Madison",
+      "last_name": "Lethlay",
+      "email": "mlethlay11@homestead.com",
+      "pwd": "oW4@ml\\HOJfgb!KC",
+      "id_ruta": 6,
+      "rol": "alumno"
+    },
+    {
+      "id": "39",
+      "first_name": "Isa",
+      "last_name": "Tregoning",
+      "email": "itregoning12@rediff.com",
+      "pwd": "mW6>9USHnOdHqNnc",
+      "id_ruta": 6,
+      "rol": "alumno"
+    },
+    {
+      "id": "40",
+      "first_name": "Jeremy",
+      "last_name": "Sponder",
+      "email": "jsponder13@cdc.gov",
+      "pwd": "nG1~gHZt|A",
+      "id_ruta": 12,
+      "rol": "alumno"
+    },
+    {
+      "id": "41",
+      "first_name": "Othello",
+      "last_name": "Butterwick",
+      "email": "obutterwick14@qq.com",
+      "pwd": "kS8,&wHl}",
+      "id_ruta": 2,
+      "rol": "alumno"
+    },
+    {
+      "id": "42",
+      "first_name": "Padriac",
+      "last_name": "Hoult",
+      "email": "phoult15@marriott.com",
+      "pwd": "hZ1.tj0yB\\CYv",
+      "id_ruta": 9,
+      "rol": "alumno"
+    },
+    {
+      "id": "43",
+      "first_name": "Peyton",
+      "last_name": "Ranscombe",
+      "email": "pranscombe16@buzzfeed.com",
+      "pwd": "xV8(H$C%",
+      "id_ruta": 14,
+      "rol": "alumno"
+    },
+    {
+      "id": "44",
+      "first_name": "Kandy",
+      "last_name": "Tiernan",
+      "email": "ktiernan17@wikipedia.org",
+      "pwd": "mN1+L_YdMKEKj",
+      "id_ruta": 8,
+      "rol": "alumno"
+    },
+    {
+      "id": "45",
+      "first_name": "Lexi",
+      "last_name": "Foucher",
+      "email": "lfoucher18@4shared.com",
+      "pwd": "kZ6\\+U(s5j",
+      "id_ruta": 6,
+      "rol": "alumno"
+    },
+    {
+      "id": "46",
+      "first_name": "Carry",
+      "last_name": "Horribine",
+      "email": "chorribine19@omniture.com",
+      "pwd": "oI0(1$\\8E,t@P",
+      "id_ruta": 7,
+      "rol": "alumno"
+    },
+    {
+      "id": "47",
+      "first_name": "Lonnie",
+      "last_name": "Thomazin",
+      "email": "lthomazin1a@mashable.com",
+      "pwd": "mY3\\,XGxf",
+      "id_ruta": 7,
+      "rol": "alumno"
+    },
+    {
+      "id": "48",
+      "first_name": "Blanche",
+      "last_name": "Folley",
+      "email": "bfolley1b@chron.com",
+      "pwd": "iE1@4'&~o|arc!L",
+      "id_ruta": 11,
+      "rol": "alumno"
+    },
+    {
+      "id": "49",
+      "first_name": "Stevy",
+      "last_name": "Allden",
+      "email": "sallden1c@google.nl",
+      "pwd": "hK0.sQlBReah4",
+      "id_ruta": 13,
+      "rol": "alumno"
+    },
+    {
+      "id": "50",
+      "first_name": "Avictor",
+      "last_name": "Strongitharm",
+      "email": "astrongitharm1d@gizmodo.com",
+      "pwd": "cO7_(RTM8SX?9wc",
+      "id_ruta": 10,
+      "rol": "alumno"
+    },
+    {
+      "id": "51",
+      "first_name": "Sholom",
+      "last_name": "Cogzell",
+      "email": "scogzell1e@nature.com",
+      "pwd": "gX8|iRjd(5<Z}19",
+      "id_ruta": 2,
+      "rol": "alumno"
+    },
+    {
+      "id": "52",
+      "first_name": "Nichole",
+      "last_name": "Pickle",
+      "email": "npickle1f@upenn.edu",
+      "pwd": "bS5!NrsUb",
+      "id_ruta": 3,
+      "rol": "alumno"
+    },
+    {
+      "id": "53",
+      "first_name": "Elena",
+      "last_name": "Antalffy",
+      "email": "eantalffy1g@weebly.com",
+      "pwd": "yY0@a&G7%uxC",
+      "id_ruta": 14,
+      "rol": "alumno"
+    },
+    {
+      "id": "54",
+      "first_name": "Cacilia",
+      "last_name": "Le Gallo",
+      "email": "clegallo1h@scribd.com",
+      "pwd": "cR4<EiHlnK",
+      "id_ruta": 8,
+      "rol": "alumno"
+    },
+    {
+      "id": "55",
+      "first_name": "Rhett",
+      "last_name": "Sterry",
+      "email": "rsterry1i@istockphoto.com",
+      "pwd": "nR1#JJl%R3<",
+      "id_ruta": 2,
+      "rol": "alumno"
+    },
+    {
+      "id": "56",
+      "first_name": "Friedrich",
+      "last_name": "Tarbath",
+      "email": "ftarbath1j@opera.com",
+      "pwd": "rI1.05HgmgDE/(r",
+      "id_ruta": 6,
+      "rol": "alumno"
+    },
+    {
+      "id": "57",
+      "first_name": "Woodman",
+      "last_name": "Cordingly",
+      "email": "wcordingly1k@jugem.jp",
+      "pwd": "rP1&''Zg1w&)EP'p",
+      "id_ruta": 3,
+      "rol": "alumno"
+    },
+    {
+      "id": "58",
+      "first_name": "Brittney",
+      "last_name": "Ely",
+      "email": "bely1l@archive.org",
+      "pwd": "iE7$?5#n@JHg",
+      "id_ruta": 5,
+      "rol": "alumno"
+    },
+    {
+      "id": "59",
+      "first_name": "Sheilakathryn",
+      "last_name": "Veel",
+      "email": "sveel1m@amazon.com",
+      "pwd": "vZ7}!B6CObcH{A&5",
+      "id_ruta": 10,
+      "rol": "alumno"
+    },
+    {
+      "id": "60",
+      "first_name": "Jacquelynn",
+      "last_name": "Smullen",
+      "email": "jsmullen1n@nifty.com",
+      "pwd": "sM1~Bo6(s,",
+      "id_ruta": 9,
+      "rol": "alumno"
+    },
+    {
+      "id": "61",
+      "first_name": "Siouxie",
+      "last_name": "Corrison",
+      "email": "scorrison1o@sbwire.com",
+      "pwd": "vZ3+p|nR",
+      "id_ruta": 10,
+      "rol": "alumno"
+    },
+    {
+      "id": "62",
+      "first_name": "Lorelei",
+      "last_name": "Bundock",
+      "email": "lbundock1p@ft.com",
+      "pwd": "uD5&*(HuWZ",
+      "id_ruta": 11,
+      "rol": "alumno"
+    },
+    {
+      "id": "63",
+      "first_name": "Dov",
+      "last_name": "Plummer",
+      "email": "dplummer1q@booking.com",
+      "pwd": "iR5>FyY(dN",
+      "id_ruta": 7,
+      "rol": "alumno"
+    },
+    {
+      "id": "64",
+      "first_name": "Lewes",
+      "last_name": "Canning",
+      "email": "lcanning1r@google.co.uk",
+      "pwd": "cP3%HM\\oDF}",
+      "id_ruta": 3,
+      "rol": "alumno"
+    },
+    {
+      "id": "65",
+      "first_name": "Jeanie",
+      "last_name": "Adams",
+      "email": "jadams1s@biglobe.ne.jp",
+      "pwd": "uJ7/f_.w9F~gkt",
+      "id_ruta": 3,
+      "rol": "alumno"
+    },
+    {
+      "id": "66",
+      "first_name": "Winston",
+      "last_name": "Stranaghan",
+      "email": "wstranaghan1t@zimbio.com",
+      "pwd": "rN7_<uIy?",
+      "id_ruta": 13,
+      "rol": "alumno"
+    },
+    {
+      "id": "67",
+      "first_name": "Chrystel",
+      "last_name": "Skevington",
+      "email": "cskevington1u@msu.edu",
+      "pwd": "nF7)gzNktJp/au",
+      "id_ruta": 8,
+      "rol": "alumno"
+    },
+    {
+      "id": "68",
+      "first_name": "Liza",
+      "last_name": "Cumberledge",
+      "email": "lcumberledge1v@phoca.cz",
+      "pwd": "cG2<z}SflYo`V\"rW",
+      "id_ruta": 8,
+      "rol": "alumno"
+    },
+    {
+      "id": "69",
+      "first_name": "Brandise",
+      "last_name": "Phear",
+      "email": "bphear1w@pen.io",
+      "pwd": "qS2@F)\"k?ERXsfw",
+      "id_ruta": 4,
+      "rol": "alumno"
+    },
+    {
+      "id": "70",
+      "first_name": "Norbie",
+      "last_name": "Buckie",
+      "email": "nbuckie1x@ocn.ne.jp",
+      "pwd": "hO7<thz~V*t",
+      "id_ruta": 7,
+      "rol": "alumno"
+    },
+    {
+      "id": "71",
+      "first_name": "Nickolai",
+      "last_name": "Corneille",
+      "email": "ncorneille1y@craigslist.org",
+      "pwd": "xO3!(z49gdA!$",
+      "id_ruta": 5,
+      "rol": "alumno"
+    },
+    {
+      "id": "72",
+      "first_name": "Erick",
+      "last_name": "Fincham",
+      "email": "efincham1z@time.com",
+      "pwd": "iY8%R~J%ARM.R",
+      "id_ruta": 6,
+      "rol": "alumno"
+    },
+    {
+      "id": "73",
+      "first_name": "Milly",
+      "last_name": "Broadbridge",
+      "email": "mbroadbridge20@yale.edu",
+      "pwd": "mR9%b1$p!k!z>ut",
+      "id_ruta": 2,
+      "rol": "alumno"
+    },
+    {
+      "id": "74",
+      "first_name": "Laurens",
+      "last_name": "McKerron",
+      "email": "lmckerron21@reuters.com",
+      "pwd": "gK6`M1Tzn=!u7NJt",
+      "id_ruta": 13,
+      "rol": "alumno"
+    },
+    {
+      "id": "75",
+      "first_name": "Hyman",
+      "last_name": "Collin",
+      "email": "hcollin22@shareasale.com",
+      "pwd": "lA1@L<WnY",
+      "id_ruta": 15,
+      "rol": "alumno"
+    },
+    {
+      "id": "76",
+      "first_name": "Olva",
+      "last_name": "Philippe",
+      "email": "ophilippe23@smugmug.com",
+      "pwd": "dU3@*\\@+&KL2zX7L",
+      "id_ruta": 3,
+      "rol": "alumno"
+    },
+    {
+      "id": "77",
+      "first_name": "Jard",
+      "last_name": "Deeney",
+      "email": "jdeeney24@house.gov",
+      "pwd": "eZ5,|Mv`@dQ",
+      "id_ruta": 16,
+      "rol": "alumno"
+    },
+    {
+      "id": "78",
+      "first_name": "Nedi",
+      "last_name": "Thowless",
+      "email": "nthowless25@yolasite.com",
+      "pwd": "oB5=G#{(<Rk~LkB",
+      "id_ruta": 12,
+      "rol": "alumno"
+    },
+    {
+      "id": "79",
+      "first_name": "Shay",
+      "last_name": "O'Codihie",
+      "email": "socodihie26@tinypic.com",
+      "pwd": "cE7/ibEd\\k>Z",
+      "id_ruta": 10,
+      "rol": "alumno"
+    },
+    {
+      "id": "80",
+      "first_name": "Dee",
+      "last_name": "Bedford",
+      "email": "dbedford27@cdbaby.com",
+      "pwd": "nK8=OCfRDE,I",
+      "id_ruta": 6,
+      "rol": "alumno"
+    },
+    {
+      "id": "81",
+      "first_name": "Whit",
+      "last_name": "Crollman",
+      "email": "wcrollman28@parallels.com",
+      "pwd": "aL4!>hWRvb",
+      "id_ruta": 1,
+      "rol": "alumno"
+    },
+    {
+      "id": "82",
+      "first_name": "Connie",
+      "last_name": "Kausche",
+      "email": "ckausche29@odnoklassniki.ru",
+      "pwd": "cX7{F!d=S",
+      "id_ruta": 11,
+      "rol": "alumno"
+    },
+    {
+      "id": "83",
+      "first_name": "Skye",
+      "last_name": "Yardy",
+      "email": "syardy2a@taobao.com",
+      "pwd": "yU3'C,{lPP\\\\.",
+      "id_ruta": 9,
+      "rol": "alumno"
+    },
+    {
+      "id": "84",
+      "first_name": "Antonietta",
+      "last_name": "Cops",
+      "email": "acops2b@illinois.edu",
+      "pwd": "gL7?/%N$y4|O6",
+      "id_ruta": 13,
+      "rol": "alumno"
+    },
+    {
+      "id": "85",
+      "first_name": "Ware",
+      "last_name": "Tyhurst",
+      "email": "wtyhurst2c@ifeng.com",
+      "pwd": "lL9$SsdG>eJ*",
+      "id_ruta": 3,
+      "rol": "alumno"
+    },
+    {
+      "id": "86",
+      "first_name": "Lula",
+      "last_name": "Broodes",
+      "email": "lbroodes2d@army.mil",
+      "pwd": "wQ7`+3&8qvS",
+      "id_ruta": 11,
+      "rol": "alumno"
+    },
+    {
+      "id": "87",
+      "first_name": "Darwin",
+      "last_name": "Masterton",
+      "email": "dmasterton2e@scientificamerican.com",
+      "pwd": "eH5\\1,OX_.@%a<",
+      "id_ruta": 8,
+      "rol": "alumno"
+    },
+    {
+      "id": "88",
+      "first_name": "Jayme",
+      "last_name": "Haugh",
+      "email": "jhaugh2f@linkedin.com",
+      "pwd": "nF5{ZWmX,RT_",
+      "id_ruta": 3,
+      "rol": "alumno"
+    },
+    {
+      "id": "89",
+      "first_name": "Viviyan",
+      "last_name": "Priestland",
+      "email": "vpriestland2g@toplist.cz",
+      "pwd": "aN0,ANN\"*SPlow",
+      "id_ruta": 11,
+      "rol": "alumno"
+    },
+    {
+      "id": "90",
+      "first_name": "Valaria",
+      "last_name": "Champley",
+      "email": "vchampley2h@pagesperso-orange.fr",
+      "pwd": "rT3=E.}E\"KBgf/3g",
+      "id_ruta": 15,
+      "rol": "alumno"
+    },
+    {
+      "id": "91",
+      "first_name": "Luci",
+      "last_name": "Kildea",
+      "email": "lkildea2i@goodreads.com",
+      "pwd": "mT9}f<IAic(9g",
+      "id_ruta": 7,
+      "rol": "alumno"
+    },
+    {
+      "id": "92",
+      "first_name": "Enos",
+      "last_name": "Fenix",
+      "email": "efenix2j@blogtalkradio.com",
+      "pwd": "vS9}O|_qiw\"ySh",
+      "id_ruta": 9,
+      "rol": "alumno"
+    },
+    {
+      "id": "93",
+      "first_name": "Jen",
+      "last_name": "Proschke",
+      "email": "jproschke2k@home.pl",
+      "pwd": "fN1@,28>(Ob\\#",
+      "id_ruta": 2,
+      "rol": "alumno"
+    },
+    {
+      "id": "94",
+      "first_name": "Toddie",
+      "last_name": "Haibel",
+      "email": "thaibel2l@unc.edu",
+      "pwd": "wW9,0\"=.j1d",
+      "id_ruta": 1,
+      "rol": "alumno"
+    },
+    {
+      "id": "95",
+      "first_name": "Chane",
+      "last_name": "Darrigone",
+      "email": "cdarrigone2m@arizona.edu",
+      "pwd": "jC1(Oav*q{V",
+      "id_ruta": 12,
+      "rol": "alumno"
+    },
+    {
+      "id": "96",
+      "first_name": "Maurita",
+      "last_name": "Jacop",
+      "email": "mjacop2n@wikipedia.org",
+      "pwd": "kP9$`RIKlS0jf(Cl",
+      "id_ruta": 11,
+      "rol": "alumno"
+    },
+    {
+      "id": "97",
+      "first_name": "Noni",
+      "last_name": "Anchor",
+      "email": "nanchor2o@i2i.jp",
+      "pwd": "lO6\\sdwXCsWB(",
+      "id_ruta": 6,
+      "rol": "alumno"
+    },
+    {
+      "id": "98",
+      "first_name": "Reginauld",
+      "last_name": "Rands",
+      "email": "rrands2p@theglobeandmail.com",
+      "pwd": "vX3)|gHaNwJl)g~",
+      "id_ruta": 14,
+      "rol": "alumno"
+    },
+    {
+      "id": "99",
+      "first_name": "Shelby",
+      "last_name": "Rosthorn",
+      "email": "srosthorn2q@yolasite.com",
+      "pwd": "zP2.lDn!h?",
+      "id_ruta": 13,
+      "rol": "alumno"
+    },
+    {
+      "id": "100",
+      "first_name": "Mae",
+      "last_name": "Souten",
+      "email": "msouten2r@epa.gov",
+      "pwd": "pX7>5$=H~q+T)P_N",
+      "id_ruta": 3,
+      "rol": "alumno"
+    },
+    {
+      "id": "101",
+      "first_name": "Eduardo",
+      "last_name": "Ortiz",
+      "email": "laloou0@wp.com",
+      "pwd": "astuvf0sK8c4BK",
+      "id_ruta": 4,
+      "rol": "alumno"
+    }
+  ]
+}

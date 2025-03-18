@@ -1,0 +1,22 @@
+<div class="auth-container">
+  <h2>{{ isLogin ? 'Iniciar Sesión' : 'Registrarse' }}</h2>
+
+  <form [formGroup]="authForm" (ngSubmit)="submit()">
+    <input type="email" formControlName="email" placeholder="Correo electrónico" required>
+    
+    <input type="password" formControlName="password" placeholder="Contraseña" required>
+
+    <button type="submit">{{ isLogin ? 'Ingresar' : 'Registrarse' }}</button>
+
+    <p *ngIf="mensajeError" class="error">{{ mensajeError }}</p>
+  </form>
+
+  <p class="toggle-text">
+    <a href="#" (click)="toggleForm()">
+      {{ isLogin ? '¿No tienes cuenta? Regístrate' : '¿Ya tienes cuenta? Inicia sesión' }}
+    </a>
+  </p>
+</div>
+
+
+  

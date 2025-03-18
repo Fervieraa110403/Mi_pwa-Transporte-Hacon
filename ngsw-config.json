@@ -1,0 +1,50 @@
+{
+  "$schema": "./node_modules/@angular/service-worker/config/schema.json",
+  "index": "/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "resources": {
+        "files": [
+          "/favicon.ico",
+          "/index.html",
+          "/manifest.webmanifest",
+          "/*.css",
+          "/*.js",
+          "/assets/**"
+        ]
+      }
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "resources": {
+        "files": [
+          "/assets/*.png",
+          "/assets/*.jpg",
+          "/assets/*.svg",
+          "/assets/*.json",
+          "/assets/fonts/*.woff2",
+          "/assets/fonts/*.ttf"
+        ]
+      }
+    }
+  ],
+  "dataGroups": [
+    {
+      "name": "api-cache",
+      "urls": ["https://tu-api.com/**"],
+      "cacheConfig": {
+        "strategy": "performance",  
+        "maxSize": 50,
+        "maxAge": "1d",
+        "timeout": "5s"
+      }
+    }
+  ]
+}
+
+

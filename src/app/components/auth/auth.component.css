@@ -1,0 +1,59 @@
+/* 🌟 Contenedor Principal */
+.auth-container {
+  background: white;
+  padding: 30px;
+  border-radius: 10px;
+  box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
+  width: 350px;
+  text-align: center;
+}
+
+/* 🌟 Inputs */
+input {
+  width: 100%;
+  padding: 12px;
+  margin: 10px 0;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  font-size: 16px;
+}
+
+/* 🌟 Botón */
+button {
+  width: 100%;
+  background-color: #007bff;
+  color: white;
+  border: none;
+  padding: 12px;
+  border-radius: 5px;
+  font-size: 16px;
+  cursor: pointer;
+  transition: all 0.3s ease;
+}
+
+button:hover {
+  background-color: #0056b3;
+}
+
+/* 🌟 Mensajes de Error */
+.error {
+  color: red;
+  font-size: 14px;
+  margin-top: 10px;
+}
+
+/* 🌟 Cambiar entre Login y Registro */
+.toggle-text {
+  margin-top: 15px;
+}
+
+.toggle-text a {
+  color: #007bff;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.toggle-text a:hover {
+  text-decoration: underline;
+}
+

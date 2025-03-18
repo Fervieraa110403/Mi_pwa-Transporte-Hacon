@@ -1,0 +1,27 @@
+<div class="dashboard-container">
+    <h2>🚍 Bienvenido, {{ usuario.first_name }} {{ usuario.last_name }}</h2>
+    <p>Ruta asignada: <span class="highlight">{{ usuario.id_ruta }}</span></p>
+    <p>Email: <span class="highlight">{{ usuario.email }}</span></p>
+  
+    <div class="dashboard-actions">
+      <button class="btn-logout" (click)="logout()">Cerrar sesión</button>
+    </div>
+  
+    <div class="dashboard-card">
+      <h3>🗺️ Mapa de tu Ruta</h3>
+      <img src="assets/rutas/{{ usuario.id_ruta }}.jpg" alt="Mapa de la ruta" class="route-image">
+    </div>
+  
+    <div class="extra-info">
+      <h3>🚌 Información del Camión</h3>
+      <p><strong>Número de Camión:</strong> {{ usuario.camion }}</p>
+      <p><strong>Horario de Salida:</strong> 9:40 pm</p>
+    </div>
+  </div>
+  
+  
+
+
+
+
+  
