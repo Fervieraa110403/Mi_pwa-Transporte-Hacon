@@ -1,72 +1,78 @@
+/* Importamos las fuentes */
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lobster&family=Montserrat:wght@400;700&family=Poppins:wght@400;600&display=swap');
+
 /* 🌟 ESTILOS GENERALES 🌟 */
 * {
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-    font-family: 'Poppins', sans-serif;
-  }
-  
-  body {
-    background-color: #f4f4f4;
-    color: #333;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
-    min-height: 100vh;
-    padding: 20px;
-  }
-  
-  /* 🌟 BOTONES 🌟 */
-  button {
-    background-color: #007bff;
-    color: white;
-    border: none;
-    padding: 10px 15px;
-    border-radius: 5px;
-    font-size: 16px;
-    cursor: pointer;
-    transition: all 0.3s ease;
-  }
-  
-  button:hover {
-    background-color: #0056b3;
-  }
-  
-  /* 🌟 FORMULARIOS 🌟 */
-  form {
-    background: white;
-    padding: 20px;
-    border-radius: 10px;
-    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
-    width: 300px;
-    text-align: center;
-  }
-  
-  input {
-    width: 100%;
-    padding: 10px;
-    margin: 10px 0;
-    border: 1px solid #ccc;
-    border-radius: 5px;
-  }
-  
-/* 🌟 Fuente Lobster solo para títulos principales */
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Poppins', sans-serif; /* Fuente principal */
+}
+
+body {
+  background-color: #FFFFFF; /* Fondo blanco */
+  color: #333;              /* Texto gris oscuro */
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  min-height: 100vh;
+  padding: 20px;
+}
+
+/* 🌟 BOTONES (Montserrat) 🌟 */
+button {
+  background-color: #006400;   /* Verde oscuro */
+  color: #FFFFFF;              /* Texto blanco */
+  border: none;
+  padding: 10px 15px;
+  border-radius: 5px;
+  font-size: 16px;
+  font-family: 'Montserrat', sans-serif; /* Fuente diferente para los botones */
+  cursor: pointer;
+  transition: all 0.3s ease;
+}
+
+button:hover {
+  background-color: #FFD700;   /* Dorado al hacer hover */
+  color: #006400;              /* Texto verde oscuro sobre dorado */
+}
+
+/* 🌟 FORMULARIOS 🌟 */
+form {
+  background: #FFFFFF;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
+  width: 300px;
+  text-align: center;
+}
+
+input {
+  width: 100%;
+  padding: 10px;
+  margin: 10px 0;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+/* 🌟 TÍTULOS PRINCIPALES (Lobster para un toque elegante) 🌟 */
 h1, h2 {
-  font-family: 'Lobster', cursive;
-  color: #007bff;
+  font-family: 'Merriweather', serif;
+  color: #006400; /* Verde oscuro */
   text-align: center;
   letter-spacing: 1.5px;
 }
 
-/* 🌟 Fuente Poppins para todo el texto general, incluyendo los cards de rutas */
-body, p, span, div, button, input, label, .ruta-card h3 {
+/* 🌟 Texto general (Poppins) 🌟 */
+body, p, span, div, input, label, .ruta-card h3 {
   font-family: 'Poppins', sans-serif;
   font-weight: 400;
   color: #333;
 }
 
-/* 🌟 Contenedor de las rutas */
+/* 🌟 CONTENEDOR DE LAS RUTAS 🌟 */
 .rutas-container {
   display: flex;
   flex-wrap: wrap;
@@ -75,9 +81,9 @@ body, p, span, div, button, input, label, .ruta-card h3 {
   margin-top: 20px;
 }
 
-/* 🌟 Estilo para los cards de las rutas */
+/* 🌟 ESTILO PARA LOS CARDS DE LAS RUTAS 🌟 */
 .ruta-card {
-  background: white;
+  background: #FFFFFF;
   padding: 20px;
   border-radius: 10px;
   box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
@@ -85,21 +91,21 @@ body, p, span, div, button, input, label, .ruta-card h3 {
   width: 250px;
   transition: transform 0.2s ease-in-out;
   cursor: pointer;
+  border: 2px solid #FFD700; /* Borde dorado */
 }
 
 .ruta-card:hover {
   transform: scale(1.05);
 }
 
-/* 🌟 Cambiar la fuente solo en los nombres de las rutas */
+/* Nombre de las rutas */
 .ruta-card h3 {
-  font-family: 'Poppins', sans-serif; /* Fuente moderna */
   font-size: 18px;
   font-weight: 600;
-  color: #007bff;
+  color: #006400; /* Verde oscuro */
 }
 
-/* 🌟 Estilo para el modal de la imagen */
+/* 🌟 MODAL PARA LAS IMÁGENES 🌟 */
 .modal {
   display: flex;
   justify-content: center;
@@ -113,7 +119,7 @@ body, p, span, div, button, input, label, .ruta-card h3 {
 }
 
 .modal-content {
-  background: white;
+  background: #FFFFFF;
   padding: 15px;
   border-radius: 10px;
   max-width: 80%;
@@ -125,30 +131,28 @@ body, p, span, div, button, input, label, .ruta-card h3 {
   border-radius: 10px;
 }
 
-/* 🌟 Botón para cerrar el modal */
+/* Botón para cerrar el modal */
 .close {
   position: absolute;
   top: 10px;
   right: 20px;
   font-size: 24px;
   cursor: pointer;
-  color: white;
+  color: #FFFFFF;
 }
 
-/* 🌟 Estilo del Header */
+/* 🌟 HEADER 🌟 */
 .app-header {
   display: flex;
   align-items: center;
   justify-content: center;
-  background: linear-gradient(135deg, #007bff, #00c6ff);
+  background: linear-gradient(135deg, #006400, #228B22); /* Gradiente verde oscuro */
   padding: 15px;
   box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.2);
-  color: white;
-  font-family: 'Poppins', sans-serif;
+  color: #FFFFFF;
   text-align: center;
 }
 
-/* 🌟 Estilo del Logo */
 .app-logo {
   width: 50px;
   height: 50px;
@@ -157,7 +161,6 @@ body, p, span, div, button, input, label, .ruta-card h3 {
   box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.2);
 }
 
-/* 🌟 Estilo del Título */
 .app-header h1 {
   font-size: 24px;
   font-family: 'Lobster', cursive;
