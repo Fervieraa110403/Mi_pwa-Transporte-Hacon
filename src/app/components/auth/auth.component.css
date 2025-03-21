@@ -21,18 +21,22 @@ input {
 /* 🌟 Botón */
 button {
   width: 100%;
-  background-color: #007bff;
+  background-color: #428142;
   color: white;
   border: none;
   padding: 12px;
-  border-radius: 5px;
+  border-radius: 25px;
   font-size: 16px;
   cursor: pointer;
   transition: all 0.3s ease;
+  -webkit-border-radius: 25px;
+  -moz-border-radius: 25px;
+  -ms-border-radius: 25px;
+  -o-border-radius: 25px;
 }
 
 button:hover {
-  background-color: #0056b3;
+  background-color: #428142;
 }
 
 /* 🌟 Mensajes de Error */
@@ -48,7 +52,7 @@ button:hover {
 }
 
 .toggle-text a {
-  color: #007bff;
+  color: #428142;
   text-decoration: none;
   font-weight: bold;
 }
@@ -56,4 +60,5 @@ button:hover {
 .toggle-text a:hover {
   text-decoration: underline;
 }
+
 
