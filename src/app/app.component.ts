@@ -11,7 +11,7 @@ import { DashboardComponent } from './components/dashboard/dashboard.component';
   template: `
     <header class="app-header">
       <div class="logo-container">
-        <img src="assets/logo.png" alt="Logo Transporte UTC" class="app-logo">
+        <img src="assets/rutas/17.png" alt="Logo Transporte UTC" class="app-logo">
         <h1>BIENVENIDOS TRANSPORTE UTC</h1>
       </div>
 
@@ -105,6 +105,8 @@ export class AppComponent {
     this.componenteActual = componente;
   }
 }
+
+
 
 
 
